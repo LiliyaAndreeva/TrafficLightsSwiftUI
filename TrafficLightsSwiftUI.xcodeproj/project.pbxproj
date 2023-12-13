@@ -11,6 +11,7 @@
 		727934992B286E70006B1BEB /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 727934982B286E70006B1BEB /* ContentView.swift */; };
 		7279349B2B286E72006B1BEB /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 7279349A2B286E72006B1BEB /* Assets.xcassets */; };
 		7279349E2B286E72006B1BEB /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 7279349D2B286E72006B1BEB /* Preview Assets.xcassets */; };
+		727934A52B286E96006B1BEB /* CircleSwiftUIView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 727934A42B286E96006B1BEB /* CircleSwiftUIView.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -19,6 +20,7 @@
 		727934982B286E70006B1BEB /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
 		7279349A2B286E72006B1BEB /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		7279349D2B286E72006B1BEB /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
+		727934A42B286E96006B1BEB /* CircleSwiftUIView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CircleSwiftUIView.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -53,6 +55,7 @@
 			children = (
 				727934962B286E70006B1BEB /* TrafficLightsSwiftUIApp.swift */,
 				727934982B286E70006B1BEB /* ContentView.swift */,
+				727934A42B286E96006B1BEB /* CircleSwiftUIView.swift */,
 				7279349A2B286E72006B1BEB /* Assets.xcassets */,
 				7279349C2B286E72006B1BEB /* Preview Content */,
 			);
@@ -137,6 +140,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				727934A52B286E96006B1BEB /* CircleSwiftUIView.swift in Sources */,
 				727934992B286E70006B1BEB /* ContentView.swift in Sources */,
 				727934972B286E70006B1BEB /* TrafficLightsSwiftUIApp.swift in Sources */,
 			);
